@@ -1,0 +1,8 @@
+opencv-python
+torch
+ultralytics
+time
+os
+psutil
+tk
+openpyxl

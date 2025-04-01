@@ -15,8 +15,8 @@ Este proyecto implementa detección de objetos en tiempo real utilizando YOLOv8 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/mendozaro25/SphacelomaDetection.git
+   cd SphacelomaDetection
    ```
 2. Instala los paquetes requeridos:
    ```bash
